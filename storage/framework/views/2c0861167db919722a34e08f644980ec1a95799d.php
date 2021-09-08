@@ -1,0 +1,1 @@
+VAMOS MILKA AYUDAME :)<?php /**PATH C:\xampp\htdocs\example-app\resources\views/empleado/index.blade.php ENDPATH**/ ?>
